@@ -1,12 +1,11 @@
 # 👋 Привет, я Евгений!
 
-### 💻 Frontend Developer с опытом 3+ лет
-
-🚀 Специализируюсь на микрофронтендах и масштабируемых приложениях  
-⚡ Оптимизирую производительность и внедряю чистую архитектуру  
-🔄 Fullstack опыт: React + TypeScript на фронте, Python на бэке  
-🧩 Создаю компонентные библиотеки и поддерживаю монорепозитории  
-📈 Повышаю эффективность команд через код-ревью и наставничество
+### 💻 Frontend Developer with 3+ years of experience
+#### 🚀 Specializing in microfrontends and scalable applications
+#### ⚡ Optimizing performance and implementing clean architecture
+#### 🔄 Fullstack experience: React + TypeScript on frontend, Python on backend
+#### 🧩 Creating component libraries and maintaining monorepos
+#### 📈 Improving team efficiency through code reviews and mentoring
 
 ### 🛠️ Tech Stack:
 
